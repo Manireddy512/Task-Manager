@@ -3,12 +3,12 @@
   "name": "TaskFlow Manager",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/906/906334.png",
+      "src": "/icons/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/906/906334.png",
+      "src": "/icons/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
